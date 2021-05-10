@@ -3,7 +3,7 @@
 <hr>
 
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20S">Carros - Categoria S (Clique para acessar)</a></li>
-  <p> [#s #carros #cars #speed_drifters #speeddrifters #garena]</p>
+  <code> [#s #carros #cars #speed_drifters #speeddrifters #garena] </code>
 
 <b>🇧🇷</b> Imagens com fundo e sem presença de textos visuais. <br>
 <b>🇺🇸</b> Images with background and without the presence of visual texts. <br>
