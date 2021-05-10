@@ -1,9 +1,9 @@
 # Speed-Drifters
 
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20S">Carros - Categoria S (Clique para acessar)</a></li>
-<img src="https://www.phoca.cz/images/stories/gimp/flags/br-128x86.png"> Imagens com fundo e sem presença de textos visuais. <br>
-<b>[EN]</b> Imagens com fundo e sem presença de textos visuais. <br>
-<b>[ES]</b> Imagens com fundo e sem presença de textos visuais. <br>
+<b>🇧🇷</b> Imagens com fundo e sem presença de textos visuais. <br>
+<b>🇺🇸</b> Imagens com fundo e sem presença de textos visuais. <br>
+<b>🇪🇸</b> Imagens com fundo e sem presença de textos visuais. <br>
 
 
 <hr>
