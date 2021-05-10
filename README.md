@@ -1,4 +1,11 @@
-<b>🇧🇷</b> Bem-vindo(a) ao meu repositório <br>
+<code> At.te 10/05/2021 </code>
+
+<b>🇧🇷</b> Bem-vindo(a) ao meu repositório, sinta-se à vontade em utilizar e compartilhar todo o conteúdo.
+<br> Peço por gentileza que não se aproprie diretamente e use como forma de promoção individual.
+<b>🇺🇸</b> Welcome to my repository, feel free to use and share all the content.
+<br> I kindly ask you not to appropriate directly and use it as a form of individual promotion.
+<b>🇪🇸</b> Bienvenido a mi repositorio, siéntete libre de usar y compartir todo el contenido.
+<br> Le pido amablemente que no se apropie directamente y lo use como una forma de promoción individual.
 
 <hr>
 
