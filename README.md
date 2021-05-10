@@ -7,13 +7,28 @@
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20D%20-%201">Imagens - Carros D (Com fundo)</a></li>
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20S">Imagens - Carros S (Com fundo)</a></li>
 
-<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M1%20-%201">Imagens - Motos M1 (Com fundo)</a></li>
 
+<hr>
 
-<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M1%20-%202">Imagens - Motos M1</a></li>
-<p> - Imagens com fundo sem presença de textos visuais.
+<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M2%20-%201">Motos M2</a></li>
+<p> Imagens com fundo e com presença de textos visuais.
+
+<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M2%20-%202">Motos M2</a></li>
+<p>- Imagens com fundo e sem presença de textos visuais.
+
+<hr>
+
+<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M1%20-%201">Motos M1</a></li>
+<p> Imagens com fundo e com presença de textos visuais.
+
+<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M1%20-%202">Motos M1</a></li>
+<p>- Imagens com fundo e sem presença de textos visuais.
   
-<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20C%20-%202">Imagens - Carros C (Sem fundo)</a></li>
+<li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/M1%20-%203">Motos M1</a></li>
+<p>- Imagens sem fundo e sem presença de textos visuais.
+
+<hr>
+
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20C%20-%202">Imagens - Carros C (Sem fundo)</a></li>
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20C%20-%202">Imagens - Carros C (Sem fundo)</a></li>
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20C%20-%202">Imagens - Carros C (Sem fundo)</a></li>
