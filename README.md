@@ -1,9 +1,3 @@
-# Speed-Drifters
-
-  <style>
-    a { color: #FF0000; } /* CSS link color */
-  </style>
-
 <hr>
 
 <li><a href="https://github.com/K0dev/Speed-Drifters/tree/GCSM/Car%20S">Carros - Categoria S (Clique para acessar)</a></li>
